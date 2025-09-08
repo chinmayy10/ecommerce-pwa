@@ -1,0 +1,23 @@
+[
+  {
+    "id": "p1",
+    "name": "Basic Tee",
+    "price": 299,
+    "image": "https://picsum.photos/300/200?random=1",
+    "description": "Comfortable cotton tee."
+  },
+  {
+    "id": "p2",
+    "name": "Running Shoes",
+    "price": 1499,
+    "image": "https://picsum.photos/300/200?random=2",
+    "description": "Lightweight running shoes."
+  },
+  {
+    "id": "p3",
+    "name": "Bluetooth Headphones",
+    "price": 1999,
+    "image": "https://picsum.photos/300/200?random=3",
+    "description": "Noise-cancelling headphones."
+  }
+]
